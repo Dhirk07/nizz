@@ -1,2 +1,0 @@
-local user = Username or "Dhirk07"
-print(user)
